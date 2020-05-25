@@ -26,4 +26,8 @@ export const quotes: Array<Quote> = [
     "Most piece of tech can be fixed with the restart button.",
     "Adit Modhvadia",
   ),
+  new Quote(
+    "If I'd had some set idea of a finish line, don't you think I would have crossed it years ago?",
+    "Bill Gates",
+  ),
 ];
