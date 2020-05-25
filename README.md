@@ -2,7 +2,7 @@
 
 ### Get some of the famous quotes that I know of and with contributions from the community.
 
-Checkout [Contributing](./Contributing.md) on how to contribute.
+Checkout [Contributing](./CONTRIBUTING.md) on how to contribute.
 
 ## Get started
 
