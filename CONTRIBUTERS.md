@@ -3,3 +3,5 @@
 ## Name/Organization (email address) - Work summary
 
 * [Adit Modhvadia](https://github.com/aditmodhvadia) (dev.aditmodhvadia@gmail.com) - Initial Work
+* [Shimony Agrawal](https://github.com/shimonyagrawal) (shimonyagrawal@gmail.com) - Added quotes
+
